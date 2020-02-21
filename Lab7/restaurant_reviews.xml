@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<restaurants>
+
+    <restaurant>
+
+        <image>
+            <path>laughing-man.gif</path>
+            <width unit="pixels">50</width>
+            <height unit="pixels">200</height>
+        </image>
+
+        <name>Laughing Man</name>
+        <logo>Visit the Laughing Man</logo>
+
+        <location>
+            <apt_number>2100</apt_number>
+            <street>Lakeview Road</street>
+            <city>Kanata</city>
+            <provstate>Ontario</provstate>
+            <postalzipcode>K2K 2K7</postalzipcode>
+            <country>Canada</country>
+        </location>
+
+        <phone>
+            <area_code>613</area_code>
+            <number>613-123-4567</number>
+        </phone>
+
+        <reviews>
+            <review>
+                <reviewer_name>Hunter S. Thompson</reviewer_name>
+                <date>2015-01-10</date>
+                <rating>4</rating>
+                <summary>Laughing Man Inn is a completely restored Victorian hotel, and offers a warm and elegant atmosphere and gracious service.</summary>
+            </review>
+        </reviews>
+
+        <menu>
+            <appetizers>
+                <item>
+                <name>Crab cakes</name>
+                    <description>Crab cakes with a creamy dill sauce served with crispy herbed fries.</description>
+                    <bulk_order>
+                        <price></price>
+                        <quantity></quantity>
+                    </bulk_order>
+                    <single_order>
+                        <price>23.00</price>
+                        <quantity>1</quantity>
+                    </single_order>
+                </item>
+
+                <item>
+                <name>Garden vegetable soup</name>
+                    <description>Garden vegetable soup with chocolate sauce</description>
+                   <bulk_order>
+                        <price></price>
+                        <quantity></quantity>
+                    </bulk_order>
+                    <single_order>
+                        <price>15.00</price>
+                        <quantity>1</quantity>
+                    </single_order>
+                </item>
+            </appetizers>
+            <entrees>
+                <item>
+                <name>Braised jumbo sea scallops</name>
+                    <description>Braised jumbo sea scallops on a sun-dried roast tomato base.</description>
+                    <bulk_order>
+                        <price></price>
+                        <quantity></quantity>
+                    </bulk_order>
+                    <single_order>
+                        <price>39.00</price>
+                        <quantity>1</quantity>
+                    </single_order>
+                </item>
+                <item>
+                <name>Free-range chicken breast</name
+                    <description>Free-range chicken breast stuffed with morels in a brandy sauce.</description>
+                    <bulk_order>
+                        <price></price>
+                        <quantity></quantity>
+                    </bulk_order>
+                    <single_order>
+                        <price>31.00</price>
+                        <quantity>1</quantity>
+                    </single_order>
+                    
+                </item>
+                <item>
+                <name>Roast pork loin</name>
+                    <description>Roast pork loin on a bed of garlic ginger apple slaw.</description>
+                    <bulk_order>
+                        <price></price>
+                        <quantity></quantity>
+                    </bulk_order>
+                    <single_order>
+                        <price>34.00</price>
+                        <quantity>1</quantity>
+                    </single_order>
+                    
+                </item>
+            </entrees>
+        </menu>
+    </restaurant>
+
+    <restaurant>
+
+        <image>
+            <path>gong-asian-cuisine.gif</path>
+            <width unit="pixels">150</width>
+            <height unit="pixels">250</height>
+        </image>
+
+        <name>Gong&apos;s Asian Cuisine</name>
+        <logo></logo>
+
+        <location>
+            <apt_number>1385</apt_number>
+            <street>Woodroffe Avenue</street>
+            <city>Ottawa</city>
+            <provstate>Ontario</provstate>
+            <postalzipcode>K2G 1V8</postalzipcode>
+            <country>Canada</country>
+        </location>
+
+        <phone>
+            <area_code>613</area_code>
+            <number>613-727-4723</number>
+        </phone>
+
+        <reviews>
+            <review>
+                <reviewer_name>Brenda P. Smith</reviewer_name>
+
+                <date>2015-01-3</date>
+                <rating>3</rating>
+                <summary>The food is always consistent. A good variety of dim sum, sushi, Chinese and even Vietnamese dishes. The service is quick and the food is plentiful. We sat down last night and within seconds of turning in our first order, the plates were on the table! The teriyaki dishes had the right amount of sauce and weren&apos;t sickeningly sweet. The chicken, fish, and beef were perfectly cooked. The maki-rolls were neatly rolled, cut properly and seasoned well. Loved the General Tao chicken, the steamed BBQ pork buns, the eel sushi and the lovely eggplant. We will be going back again! I would highly recommend it.</summary>
+            </review>
+        </reviews>
+
+        <menu>
+            <appetizers>
+                <item>
+                <name>Egg Roll</name>
+                    <description>Egg Roll</description>
+                    <bulk_order>
+                        <price>15.00</price>
+                        <quantity>12</quantity>
+                    </bulk_order>
+                    <single_order>
+                        <price>1.50</price>
+                        <quantity>1</quantity>
+                    </single_order>
+                </item>
+
+                <item>
+                <name>Spring Roll</name>
+                    <description>Spring Roll</description>
+                    <bulk_order>
+                        <price>15.00</price>
+                        <quantity>12</quantity>
+                    </bulk_order>
+                    <single_order>
+                        <price>1.50</price>
+                        <quantity>1</quantity>
+                    </single_order>
+                </item>
+
+                <item>
+                <name>Shrimp Chips</name>
+                    <description>Shrimp Chips</description>
+                    <bulk_order>
+                        <price></price>
+                        <quantity></quantity>
+                    </bulk_order>
+                    <single_order>
+                        <price>2.50</price>
+                        <quantity>1</quantity>
+                    </single_order>
+                </item>
+
+                <item>
+                <name>Fried Noodles</name>
+                    <description>Fried Noodles</description>
+                    <bulk_order>
+                        <price></price>
+                        <quantity></quantity>
+                    </bulk_order>
+                    <single_order>
+                        <price>1.00</price>
+                        <quantity>1</quantity>
+                    </single_order>
+                </item>
+
+                <item>
+                <name>Sweet &amp; Sour Fried Wonton Skin</name>
+                    <description>Sweet &amp; Sour Fried Wonton Skin</description>
+                    <bulk_order>
+                        <price>3.50</price>
+                        <quantity>12</quantity>
+                    </bulk_order>
+                    <single_order>
+                        <price></price>
+                        <quantity></quantity>
+                    </single_order>
+                </item>
+            </appetizers>
+            <entrees>
+                <item>
+                <name>Scallops with Vegetables</name>
+                    <description>Scallops with Vegetables</description>
+                    <price>14.95</price>
+                    <quantity>1</quantity>
+                </item>
+                <item>
+                <name>Sweet and Sour Fish Cantonese Style</name>
+                    <description>Sweet and Sour Fish Cantonese Style</description>
+                    <price>13.95</price>
+                    <quantity>1</quantity>
+                </item>
+                <item>
+                <name>Shrimps with Vegetables</name>
+                    <description>Shrimps with Vegetables</description>
+                    <price>12.95</price>
+                    <quantity>1</quantity>
+                </item>
+                <item>
+                <name>Beef with Mushroom</name>
+                    <description>Beef with Mushroom</description>
+                    <price>10.25</price>
+                    <quantity>1</quantity>
+                </item>
+                <item>
+                <name>Beef with Tomato</name>
+                    <description>Beef with Tomato</description>
+                    <price>10.25</price>
+                    <quantity>1</quantity>
+                </item>
+                <item>
+                <name>Beef with Broccoli</name>
+                    <description>Beef with Broccoli</description>
+                    <price>10.25</price>
+                    <quantity>1</quantity>
+                </item>
+            </entrees>
+        </menu>
+    </restaurant>
+
+</restaurants>
